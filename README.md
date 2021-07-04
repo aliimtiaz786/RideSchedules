@@ -7,8 +7,10 @@ with stop names and flatten it by stop wise instead of segment
 The API is using in memory storage to store and retrieve information
 
 # Project Documentation
-1 Process all rows of ride_schedule.csv and enrich them with the stop name using “stop_details.csv” as a look-up. Write the output to another csv file called stop_details_enriched.csv
-2 The output file of the 1st task is represented by segment-wise rows, with from/to stop_id. The next task is to flatten those schedules based on stop instead of segment. The output of this task should only have one stop per row. The ordering of stops should be consistent with the segment sequence, and it is represented by a new property called “StopSequence”. The result should be a csv with “flattened”
+1. Process all rows of ride_schedule.csv and enrich them with the stop name using “stop_details.csv” as a look-up. Write the output to another csv file called stop_details_enriched.csv
+
+2. The output file of the 1st task is represented by segment-wise rows, with from/to stop_id. The next task is to flatten those schedules based on stop instead of segment. The output of this task should only have one stop per row. The ordering of stops should be consistent with the segment sequence, and it is represented by a new property called “StopSequence”. The result should be a csv with “flattened”
+
 3. Output the result to csv file
 
 ![img.png](img.png)
