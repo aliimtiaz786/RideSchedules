@@ -1,0 +1,6 @@
+rideId,departureDate,segmentSequence,fromStopId,toStopId,fromStopName,toStopName
+124603531,2021-06-02,1,2425,12448,Rome Tiburtina Bus station,Avezzano
+124603531,2021-06-02,2,12448,15228,Avezzano,Ascoli Piceno
+124603531,2021-06-02,3,15228,23678,Ascoli Piceno,Ancona (Stazione FS)
+124603531,2021-06-02,4,23678,3968,Ancona (Stazione FS),Bologna (central bus station)
+124603531,2021-06-02,5,3968,20028,Bologna (central bus station),Skopje

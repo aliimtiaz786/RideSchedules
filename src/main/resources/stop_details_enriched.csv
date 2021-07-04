@@ -1,0 +1,762 @@
+rideId,departureDate,segmentSequence,fromStopId,toStopId,fromStopName,toStopName
+124603531,2021-06-02,1,2425,12448,Rome Tiburtina Bus station,Avezzano
+124603531,2021-06-02,2,12448,15228,Avezzano,Ascoli Piceno
+124603531,2021-06-02,3,15228,23678,Ascoli Piceno,Ancona (Stazione FS)
+124603531,2021-06-02,4,23678,3968,Ancona (Stazione FS),Bologna (central bus station)
+124603531,2021-06-02,5,3968,20028,Bologna (central bus station),Skopje
+124643301,2021-06-02,1,11898,31911,MissingStop,Vienna Central Station
+124643301,2021-06-02,2,31911,20088,Vienna Central Station,Novi Sad MAS
+124643301,2021-06-03,3,20088,31691,Novi Sad MAS,Ruma
+124643301,2021-06-03,4,31691,31721,Ruma,Sremska Mitrovica
+124643301,2021-06-03,5,31721,31711,Sremska Mitrovica,Šabac
+124643301,2021-06-03,6,31711,31681,Šabac,Koceljeva
+124643301,2021-06-03,7,31681,31671,Koceljeva,Valjevo
+124694901,2021-06-02,1,31671,42591,Valjevo,Ub
+124694901,2021-06-02,2,42591,42601,Ub,Obrenovac
+124694901,2021-06-02,3,42601,20018,Obrenovac,Belgrade AS
+124959011,2021-06-02,1,7118,7108,"Bohumín, Nový Bohumín, žel.st.",Ostrava hl.n. LEO
+124959011,2021-06-02,2,7108,11878,Ostrava hl.n. LEO,Ostrava hl.n.
+124959011,2021-06-02,3,11878,7098,Ostrava hl.n.,Ostrava-Svinov
+124959011,2021-06-02,4,7098,7088,Ostrava-Svinov,Studénka
+124959011,2021-06-02,5,7088,7078,Studénka,Suchdol nad Odrou
+124959011,2021-06-02,6,7078,7068,Suchdol nad Odrou,Hranice na Moravě
+124959011,2021-06-02,7,7068,7028,Hranice na Moravě,Přerov
+124959011,2021-06-02,8,7028,7018,Přerov,Olomouc Main Station
+124959011,2021-06-02,9,7018,7008,Olomouc Main Station,Zábřeh
+124959011,2021-06-02,10,7008,42551,Zábřeh,Ústí nad Orlicí (train)
+124959011,2021-06-02,11,42551,6998,Ústí nad Orlicí (train),Pardubice
+124959011,2021-06-02,12,6998,6978,Pardubice,Kolín
+124959011,2021-06-02,13,6978,16018,Kolín,Prague Libeň
+124959011,2021-06-02,14,16018,24658,Prague Libeň,Prague Main Station (Train)
+124959011,2021-06-02,15,24658,6988,Prague Main Station (Train),Prague Main Railway Station
+125381211,2021-06-02,1,54791,54781,MissingStop,Bucharest Autogara  Filaret
+125424281,2021-06-02,1,48831,48901,Ankara bus station,Bolu bus station
+125424281,2021-06-02,2,48901,48981,Bolu bus station,Düzce bus station
+125424281,2021-06-02,3,48981,49061,Düzce bus station,Akçakoca bus station
+125424281,2021-06-02,4,49061,49461,Akçakoca bus station,Alaplı bus station
+125424281,2021-06-02,5,49461,48671,Alaplı bus station,Ereğli-Kdz bus station
+125542291,2021-06-02,1,48161,49301,MissingStop,Mucur bus station
+125542291,2021-06-02,2,49301,47931,Mucur bus station,Kırşehir bus station
+125542291,2021-06-02,3,47931,48171,Kırşehir bus station,Kırıkkale bus station
+125542291,2021-06-02,4,48171,49101,Kırıkkale bus station,Elmadağ bus station
+125542291,2021-06-02,5,49101,49881,Elmadağ bus station,Kayaş Çalışkan
+125542291,2021-06-02,6,49881,48831,Kayaş Çalışkan,Ankara bus station
+125542291,2021-06-02,7,48831,48901,Ankara bus station,Bolu bus station
+125542291,2021-06-02,8,48901,48981,Bolu bus station,Düzce bus station
+125542291,2021-06-02,9,48981,47921,Düzce bus station,Gebze bus station
+125542291,2021-06-02,10,47921,48021,Gebze bus station,İstanbul Dudullu
+125542291,2021-06-02,11,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+125542291,2021-06-02,12,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+125879931,2021-06-02,1,47502,49221,MissingStop,Kozlu bus station
+125879931,2021-06-02,2,49221,48671,Kozlu bus station,Ereğli-Kdz bus station
+125879931,2021-06-02,3,48671,49461,Ereğli-Kdz bus station,Alaplı bus station
+125879931,2021-06-02,4,49461,49061,Alaplı bus station,Akçakoca bus station
+125879931,2021-06-02,5,49061,48981,Akçakoca bus station,Düzce bus station
+125879931,2021-06-02,6,48981,51871,Düzce bus station,Taytem rest station
+125879931,2021-06-02,7,51871,47921,Taytem rest station,Gebze bus station
+125879931,2021-06-02,8,47921,48021,Gebze bus station,İstanbul Dudullu
+125879931,2021-06-02,9,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+125879931,2021-06-02,10,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+126472741,2021-06-02,1,48031,48351,MissingStop,Milas bus station
+126472741,2021-06-03,2,48351,48461,Milas bus station,Söke bus station
+126472741,2021-06-03,3,48461,53121,Söke bus station,Izmir otogar tesis
+126472741,2021-06-03,4,53121,49011,Izmir otogar tesis,Izmir bus station
+126472741,2021-06-03,5,49011,48521,Izmir bus station,Turgutlu bus station
+126472741,2021-06-03,6,48521,48431,Turgutlu bus station,Salihli bus station
+126472741,2021-06-03,7,48431,49271,Salihli bus station,Kula (Manisa) bus station
+126472741,2021-06-03,8,49271,47572,Kula (Manisa) bus station,Uşak bus station
+126472741,2021-06-03,9,47572,53081,Uşak bus station,Uşak other rest station
+126472741,2021-06-03,10,53081,52041,Uşak other rest station,Banaz
+126472741,2021-06-03,11,52041,48771,Banaz,Afyon bus station
+126472741,2021-06-03,12,48771,48411,Afyon bus station,Polatlı bus station
+126472741,2021-06-03,13,48411,48831,Polatlı bus station,Ankara bus station
+126472741,2021-06-03,14,48831,49881,Ankara bus station,Kayaş Çalışkan
+126472741,2021-06-03,15,49881,49101,Kayaş Çalışkan,Elmadağ bus station
+126472741,2021-06-03,16,49101,48171,Elmadağ bus station,Kırıkkale bus station
+126472741,2021-06-03,17,48171,49501,Kırıkkale bus station,Sungurlu bus station
+126472741,2021-06-03,18,49501,48961,Sungurlu bus station,Çorum bus station
+126472741,2021-06-03,19,48961,48341,Çorum bus station,Merzifon bus station
+126472741,2021-06-03,20,48341,49771,Merzifon bus station,Havza bus station
+126472741,2021-06-03,21,49771,49871,Havza bus station,Kavak bus station
+126472741,2021-06-03,22,49871,47612,Kavak bus station,Samsun
+126749771,2021-06-02,1,4548,4698,Lyon Perrache,Nîmes
+126749771,2021-06-02,2,4698,4638,Nîmes,Montpellier
+126749771,2021-06-02,3,4638,4758,Montpellier,Perpignan
+126749771,2021-06-02,4,4758,8658,Perpignan,Barcelona Nord
+126910381,2021-06-02,1,36221,36211,MissingStop,Cascais
+126910381,2021-06-02,2,36211,16958,Cascais,Lisbon (Oriente)
+126910381,2021-06-02,3,16958,31731,Lisbon (Oriente),Almada (Metro Cova Piedade)
+126910381,2021-06-02,4,31731,19308,Almada (Metro Cova Piedade),Badajoz
+126910381,2021-06-02,5,19308,50211,Badajoz,Toledo
+126910381,2021-06-03,6,50211,19288,Toledo,Madrid (South)
+126910381,2021-06-03,7,19288,16058,Madrid (South),Madrid Airport (T4)
+126966422,2021-06-02,1,48161,49941,MissingStop,Avanos bus station
+126966422,2021-06-02,2,49941,49691,Avanos bus station,Göreme bus station
+126966422,2021-06-02,3,49691,47661,Göreme bus station,Nevşehir bus station
+126966422,2021-06-02,4,47661,47501,Nevşehir bus station,Acıgöl
+126966422,2021-06-02,5,47501,51651,Acıgöl,Tuanna rest station
+126966422,2021-06-02,6,51651,48791,Tuanna rest station,Aksaray bus station
+126966422,2021-06-02,7,48791,47901,Aksaray bus station,Konya bus station
+126966422,2021-06-02,8,47901,48131,Konya bus station,Beyşehir
+126966422,2021-06-02,9,48131,49401,Beyşehir,Şarkikaraağaç bus station
+126966422,2021-06-02,10,49401,50171,Şarkikaraağaç bus station,Eğirdir bus station
+126966422,2021-06-03,11,50171,47981,Eğirdir bus station,Isparta bus station
+126966422,2021-06-03,12,47981,48841,Isparta bus station,Antalya bus station
+127020512,2021-06-02,1,47901,48721,Konya bus station,Cihanbeyli bus station
+127020512,2021-06-02,2,48721,48281,Cihanbeyli bus station,Kulu bus station
+127020512,2021-06-02,3,48281,48831,Kulu bus station,Ankara bus station
+127020512,2021-06-02,4,48831,51821,Ankara bus station,Unova
+127020512,2021-06-03,5,51821,47532,Unova,Sakarya
+127020512,2021-06-03,6,47532,47911,Sakarya,Kocaeli bus station
+127020512,2021-06-03,7,47911,47921,Kocaeli bus station,Gebze bus station
+127020512,2021-06-03,8,47921,48021,Gebze bus station,İstanbul Dudullu
+127020512,2021-06-03,9,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+127020512,2021-06-03,10,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+127126351,2021-06-02,1,29408,29458,MissingStop,Huelva
+127126351,2021-06-02,2,29458,35721,Huelva,Faro (Av. Republica)
+127126351,2021-06-02,3,35721,23638,Faro (Av. Republica),Faro (Airport)
+127126351,2021-06-02,4,23638,31581,Faro (Airport),Albufeira (Av Pessanha Viegas)
+127126351,2021-06-02,5,31581,16958,Albufeira (Av Pessanha Viegas),Lisbon (Oriente)
+127411141,2021-06-02,1,2196,24068,Kraków MDA,Tatranská Lomnica
+127411141,2021-06-02,2,24068,24048,Tatranská Lomnica,Starý Smokovec
+127411141,2021-06-02,3,24048,14098,Starý Smokovec,Poprad
+127411141,2021-06-02,4,14098,14088,Poprad,Prešov
+127411141,2021-06-03,5,14088,14068,Prešov,Košice
+127411141,2021-06-03,6,14068,14288,Košice,Budapest Airport
+127411141,2021-06-03,7,14288,2015,Budapest Airport,Budapest Népliget
+127566401,2021-06-02,1,10,22638,Munich central bus station,Salzburg South
+127566401,2021-06-02,2,22638,9678,Salzburg South,Villach
+127566401,2021-06-02,3,9678,10138,Villach,Udine (autostazione)
+127566401,2021-06-02,4,10138,2545,Udine (autostazione),Trieste (Autostazione)
+127566401,2021-06-02,5,2545,7588,Trieste (Autostazione),Opatija
+127566401,2021-06-02,6,7588,7598,Opatija,Rijeka
+127566401,2021-06-02,7,7598,7568,Rijeka,Crikvenica
+127690701,2021-06-02,1,11548,25,"Cologne South, Airport",Düsseldorf
+127690701,2021-06-02,2,25,4808,Düsseldorf,Roermond
+127690701,2021-06-02,3,4808,5788,Roermond,Eindhoven
+127690701,2021-06-02,4,5788,3268,Eindhoven,Antwerp
+127746141,2021-06-02,1,36711,30691,Girona,Olot
+127760751,2021-06-02,1,36711,39091,Girona,Sant Feliu de Guíxols
+127760881,2021-06-02,1,39091,36711,Sant Feliu de Guíxols,Girona
+127878441,2021-06-02,1,30691,36711,Olot,Girona
+128188751,2021-06-02,1,2186,14948,Copenhagen,CPH Airport
+128188751,2021-06-02,2,14948,2265,CPH Airport,Malmö
+128188751,2021-06-02,3,2265,9038,Malmö,Jönköping
+128188751,2021-06-03,4,9038,9048,Jönköping,Linköping
+128188751,2021-06-03,5,9048,10408,Linköping,Norrköping
+128188751,2021-06-03,6,10408,34061,Norrköping,Skavsta Flygplats
+128188751,2021-06-03,7,34061,3978,Skavsta Flygplats,Stockholm Cityterminalen
+128188751,2021-06-03,8,3978,28968,Stockholm Cityterminalen,Arlanda Airport T4 & 5
+128188751,2021-06-03,9,28968,28978,Arlanda Airport T4 & 5,Arlanda Airport T 2 & 3
+128268362,2021-06-02,1,10,55,Munich central bus station,Augsburg
+128268362,2021-06-02,2,55,17,Augsburg,Stuttgart Vaihingen
+128268362,2021-06-02,3,17,61,Stuttgart Vaihingen,Stuttgart Zuffenhausen
+128268362,2021-06-02,4,61,2765,Stuttgart Zuffenhausen,Heilbronn central station
+128268362,2021-06-02,5,2765,13,Heilbronn central station,Darmstadt
+128268362,2021-06-03,6,13,12,Darmstadt,Frankfurt central station
+128268362,2021-06-03,7,12,29608,Frankfurt central station,Hagen main station
+128268362,2021-06-03,8,29608,49,Hagen main station,Dortmund
+128268362,2021-06-03,9,49,231,Dortmund,Münster
+128268362,2021-06-03,10,231,211,Münster,Osnabrück
+128268362,2021-06-03,11,211,89,Osnabrück,Bremen
+128268362,2021-06-03,12,89,36,Bremen,Hamburg ZOB
+128342872,2021-06-02,1,50,91,MissingStop,Wuppertal
+128342872,2021-06-02,2,91,10058,Wuppertal,Lüdenscheid
+128342872,2021-06-02,3,10058,541,Lüdenscheid,Siegen
+128342872,2021-06-02,4,541,12,Siegen,Frankfurt central station
+128342872,2021-06-02,5,12,38,Frankfurt central station,Frankfurt Airport
+128342872,2021-06-02,6,38,41481,Frankfurt Airport,Heidelberg Pre Waypoint
+128342872,2021-06-02,7,41481,14,Heidelberg Pre Waypoint,Heidelberg
+128342872,2021-06-02,8,14,41501,Heidelberg,Heidelberg Post Waypoint
+128342872,2021-06-02,9,41501,2765,Heidelberg Post Waypoint,Heilbronn central station
+128342872,2021-06-02,10,2765,61,Heilbronn central station,Stuttgart Zuffenhausen
+128342872,2021-06-02,11,61,2785,Stuttgart Zuffenhausen,Stuttgart Airport
+128342872,2021-06-02,12,2785,684,Stuttgart Airport,Ulm
+128342872,2021-06-02,13,684,55,Ulm,Augsburg
+128342872,2021-06-02,14,55,10,Augsburg,Munich central bus station
+128509331,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+128509331,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+128509331,2021-06-02,3,48021,47921,İstanbul Dudullu,Gebze bus station
+128509331,2021-06-02,4,47921,47911,Gebze bus station,Kocaeli bus station
+128509331,2021-06-02,5,47911,47532,Kocaeli bus station,Sakarya
+128509331,2021-06-02,6,47532,51871,Sakarya,Taytem rest station
+128509331,2021-06-02,7,51871,48901,Taytem rest station,Bolu bus station
+128509331,2021-06-02,8,48901,48071,Bolu bus station,Karabuk bus station
+128509331,2021-06-02,9,48071,48421,Karabuk bus station,Safranbolu bus station
+128509331,2021-06-02,10,48421,50511,Safranbolu bus station,Toprakcuma
+128509331,2021-06-02,11,50511,50521,Toprakcuma,İğdir (Kastamonu)
+128509331,2021-06-02,12,50521,49831,İğdir (Kastamonu),Araç bus station
+128509331,2021-06-02,13,49831,48151,Araç bus station,Kastamonu bus station
+129261221,2021-06-02,1,4658,4978,Nantes Haluchère,Angers
+129261221,2021-06-02,2,4978,5598,Angers,Le Mans
+129261221,2021-06-02,3,5598,11558,Le Mans,Paris (Bercy Seine)
+129412581,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+129412581,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+129412581,2021-06-02,3,48021,51821,İstanbul Dudullu,Unova
+129412581,2021-06-02,4,51821,48831,Unova,Ankara bus station
+129500511,2021-06-02,1,48151,49831,Kastamonu bus station,Araç bus station
+129500511,2021-06-02,2,49831,50521,Araç bus station,İğdir (Kastamonu)
+129500511,2021-06-02,3,50521,50511,İğdir (Kastamonu),Toprakcuma
+129500511,2021-06-02,4,50511,48421,Toprakcuma,Safranbolu bus station
+129500511,2021-06-02,5,48421,48071,Safranbolu bus station,Karabuk bus station
+129500511,2021-06-02,6,48071,48901,Karabuk bus station,Bolu bus station
+129500511,2021-06-02,7,48901,48981,Bolu bus station,Düzce bus station
+129500511,2021-06-02,8,48981,47532,Düzce bus station,Sakarya
+129500511,2021-06-02,9,47532,47911,Sakarya,Kocaeli bus station
+129500511,2021-06-02,10,47911,47921,Kocaeli bus station,Gebze bus station
+129500511,2021-06-02,11,47921,48021,Gebze bus station,İstanbul Dudullu
+129500511,2021-06-02,12,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+129500511,2021-06-02,13,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+129500511,2021-06-02,14,48041,54181,İstanbul Esenler,Çerkezköy bus station
+129500511,2021-06-02,15,54181,54891,Çerkezköy bus station,Çorlu
+129615441,2021-06-02,1,11238,22118,MissingStop,Gornji Kneginec
+129615441,2021-06-02,2,22118,22128,Gornji Kneginec,Novi Marof
+129615441,2021-06-02,3,22128,22138,Novi Marof,Bedenica
+129615441,2021-06-02,4,22138,2635,Bedenica,Zagreb
+129615441,2021-06-02,5,2635,26928,Zagreb,Seget Donji
+129615441,2021-06-02,6,26928,7628,Seget Donji,Trogir
+129615441,2021-06-02,7,7628,26918,Trogir,Kaštel Sucurac
+129615441,2021-06-02,8,26918,7618,Kaštel Sucurac,Split
+130417661,2021-06-02,1,31911,2015,Vienna Central Station,Budapest Népliget
+130475551,2021-06-02,1,47602,49181,MissingStop,Yıldızeli
+130475551,2021-06-02,2,49181,49081,Yıldızeli,Akdağmadeni bus station
+130475551,2021-06-02,3,49081,48471,Akdağmadeni bus station,Sorgun bus station
+130475551,2021-06-02,4,48471,51561,Sorgun bus station,Coşkun Restaurant rest station
+130475551,2021-06-02,5,51561,47542,Coşkun Restaurant rest station,Yozgat
+130475551,2021-06-02,6,47542,48171,Yozgat,Kırıkkale bus station
+130475551,2021-06-02,7,48171,49101,Kırıkkale bus station,Elmadağ bus station
+130475551,2021-06-02,8,49101,49881,Elmadağ bus station,Kayaş Çalışkan
+130475551,2021-06-02,9,49881,48831,Kayaş Çalışkan,Ankara bus station
+130618691,2021-06-02,1,1494,251,Prague ÚAN Florenc,Dresden central station
+130618691,2021-06-02,2,251,30,Dresden central station,Leipzig central station
+130618691,2021-06-02,3,30,70,Leipzig central station,Magdeburg
+130618691,2021-06-02,4,70,41,Magdeburg,Brunswick central station
+130618691,2021-06-02,5,41,64,Brunswick central station,Hanover
+130618691,2021-06-02,6,64,201,Hanover,Bad Oeynhausen
+130618691,2021-06-02,7,201,211,Bad Oeynhausen,Osnabrück
+130618691,2021-06-02,8,211,2065,Osnabrück,Enschede
+130618691,2021-06-02,9,2065,1384,Enschede,Arnhem
+130618691,2021-06-02,10,1384,4688,Arnhem,Nijmegen
+130618691,2021-06-02,11,4688,5788,Nijmegen,Eindhoven
+130618691,2021-06-02,12,5788,2865,Eindhoven,Lille
+130618691,2021-06-03,13,2865,4168,Lille,Paris CDG Airport
+130618691,2021-06-03,14,4168,11558,Paris CDG Airport,Paris (Bercy Seine)
+130762251,2021-06-02,1,2655,23448,Vienna Erdberg (VIB),Graz Webling
+130762251,2021-06-02,2,23448,2275,Graz Webling,Maribor
+130762251,2021-06-02,3,2275,2635,Maribor,Zagreb
+130834891,2021-06-02,1,47502,49221,MissingStop,Kozlu bus station
+130834891,2021-06-02,2,49221,48671,Kozlu bus station,Ereğli-Kdz bus station
+130834891,2021-06-02,3,48671,49461,Ereğli-Kdz bus station,Alaplı bus station
+130834891,2021-06-02,4,49461,49061,Alaplı bus station,Akçakoca bus station
+130834891,2021-06-02,5,49061,51871,Akçakoca bus station,Taytem rest station
+130834891,2021-06-02,6,51871,47921,Taytem rest station,Gebze bus station
+130834891,2021-06-02,7,47921,48021,Gebze bus station,İstanbul Dudullu
+130834891,2021-06-02,8,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+130834891,2021-06-02,9,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+131242421,2021-06-02,1,8968,13798,MissingStop,Töcksfors
+131242421,2021-06-02,2,13798,13618,Töcksfors,Årjäng
+131242421,2021-06-02,3,13618,13708,Årjäng,Knöstad
+131242421,2021-06-02,4,13708,32751,Knöstad,Grums Station
+131242421,2021-06-02,5,32751,13698,Grums Station,Karlstad
+131564931,2021-06-02,1,1875,651,Innsbruck Südbahnstraße,Seefeld
+131564931,2021-06-02,2,651,4608,Seefeld,Mittenwald
+131564931,2021-06-02,3,4608,631,Mittenwald,Garmisch-Partenkirchen
+131564931,2021-06-02,4,631,10,Garmisch-Partenkirchen,Munich central bus station
+131564931,2021-06-02,5,10,621,Munich central bus station,Munich Airport
+131564981,2021-06-02,1,621,10,Munich Airport,Munich central bus station
+131564981,2021-06-02,2,10,631,Munich central bus station,Garmisch-Partenkirchen
+131564981,2021-06-02,3,631,4608,Garmisch-Partenkirchen,Mittenwald
+131564981,2021-06-02,4,4608,651,Mittenwald,Seefeld
+131564981,2021-06-02,5,651,1875,Seefeld,Innsbruck Südbahnstraße
+131564991,2021-06-02,1,1875,651,Innsbruck Südbahnstraße,Seefeld
+131564991,2021-06-02,2,651,4608,Seefeld,Mittenwald
+131564991,2021-06-02,3,4608,631,Mittenwald,Garmisch-Partenkirchen
+131564991,2021-06-02,4,631,10,Garmisch-Partenkirchen,Munich central bus station
+131564991,2021-06-02,5,10,621,Munich central bus station,Munich Airport
+131628361,2021-06-02,1,3938,1304,Genoa (Fanti d'Italia/Principe bus station),Milan (Lampugnano bus station)
+131628361,2021-06-02,2,1304,2,Milan (Lampugnano bus station),Zurich
+131628361,2021-06-03,3,2,79,Zurich,Tübingen
+131628361,2021-06-03,4,79,2785,Tübingen,Stuttgart Airport
+131628361,2021-06-03,5,2785,26,Stuttgart Airport,Karlsruhe
+131628361,2021-06-03,6,26,14,Karlsruhe,Heidelberg
+131628361,2021-06-03,7,14,19,Heidelberg,Mannheim ZOB
+131628361,2021-06-03,8,19,11548,Mannheim ZOB,"Cologne South, Airport"
+131628361,2021-06-03,9,11548,25,"Cologne South, Airport",Düsseldorf
+131639601,2021-06-02,1,4028,9588,MissingStop,Perugia (Piazzale Umbria Jazz)
+131639601,2021-06-02,2,9588,2085,Perugia (Piazzale Umbria Jazz),Florence (Villa Costanza Tram T1)
+131639601,2021-06-02,3,2085,3938,Florence (Villa Costanza Tram T1),Genoa (Fanti d'Italia/Principe bus station)
+131639601,2021-06-02,4,3938,10358,Genoa (Fanti d'Italia/Principe bus station),Savona (Stazione FS)
+131639601,2021-06-02,5,10358,10438,Savona (Stazione FS),Turin (Lingotto)
+131639601,2021-06-02,6,10438,3388,Turin (Lingotto),Turin (Vittorio Emanuele)
+131713971,2021-06-02,1,17228,11558,MissingStop,Paris (Bercy Seine)
+131713971,2021-06-02,2,11558,17438,Paris (Bercy Seine),Arpajon
+131713971,2021-06-02,3,17438,16928,Arpajon,Étampes
+131713971,2021-06-02,4,16928,9138,Étampes,Orléans (Libération)
+131713971,2021-06-02,5,9138,6168,Orléans (Libération),Tours
+131713971,2021-06-02,6,6168,6058,Tours,Poitiers
+131713971,2021-06-02,7,6058,9228,Poitiers,Niort
+131713971,2021-06-02,8,9228,42431,Niort,International Interconnection Hub
+131713971,2021-06-03,9,42431,16948,International Interconnection Hub,Salamanca
+131713971,2021-06-03,10,16948,16378,Salamanca,Vilar Formoso
+131713971,2021-06-03,11,16378,17158,Vilar Formoso,Guarda (Bus Station)
+131713971,2021-06-03,12,17158,39911,Guarda (Bus Station),Celorico da Beira
+131713971,2021-06-03,13,39911,16388,Celorico da Beira,Viseu  (Bus Station)
+131713971,2021-06-03,14,16388,39931,Viseu  (Bus Station),Albergaria-a-Velha (Bus Station)
+131713971,2021-06-03,15,39931,40061,Albergaria-a-Velha (Bus Station),Sao Joao da Madeira
+131713971,2021-06-03,16,40061,39941,Sao Joao da Madeira,Lourosa
+131713971,2021-06-03,17,39941,23658,Lourosa,Porto (Camelias)
+131713971,2021-06-03,18,23658,40501,Porto (Camelias),Povoa do Varzim (Bus Station)
+131713971,2021-06-03,19,40501,40491,Povoa do Varzim (Bus Station),Viana do Castelo (Bus Station)
+131717591,2021-06-02,1,40751,40691,MissingStop,Ponte Barca
+131717591,2021-06-02,2,40691,16558,Ponte Barca,Ponte de Lima (Bus Station)
+131717591,2021-06-02,3,16558,40741,Ponte de Lima (Bus Station),Braga
+131717591,2021-06-02,4,40741,16678,Braga,Guimaraes (Bus Station)
+131717591,2021-06-02,5,16678,40721,Guimaraes (Bus Station),Fafe (Bus Station)
+131717591,2021-06-02,6,40721,40681,Fafe (Bus Station),Arco Baulhe (Bus Station)
+131717591,2021-06-02,7,40681,40711,Arco Baulhe (Bus Station),V. P. Aguiar (Bus Station)
+131717591,2021-06-02,8,40711,40701,V. P. Aguiar (Bus Station),Pedras Salgadas
+131717591,2021-06-02,9,40701,40921,Pedras Salgadas,Vidago
+131717591,2021-06-02,10,40921,40761,Vidago,Chaves
+131717591,2021-06-02,11,40761,46321,Chaves,Verin (Bus Station)
+131717591,2021-06-02,12,46321,16128,Verin (Bus Station),Puebla de Sanabria
+131717591,2021-06-02,13,16128,16088,Puebla de Sanabria,Benavente
+131717591,2021-06-02,14,16088,43231,Benavente,Leon
+131717591,2021-06-02,15,43231,42431,Leon,International Interconnection Hub
+131717591,2021-06-02,16,42431,16148,International Interconnection Hub,Vitoria-Gasteiz
+131717591,2021-06-02,17,16148,18518,Vitoria-Gasteiz,Saintes
+131717591,2021-06-03,18,18518,6058,Saintes,Poitiers
+131717591,2021-06-03,19,6058,6168,Poitiers,Tours
+131717591,2021-06-03,20,6168,9138,Tours,Orléans (Libération)
+131717591,2021-06-03,21,9138,16288,Orléans (Libération),Versailles (IC)
+131717591,2021-06-03,22,16288,11558,Versailles (IC),Paris (Bercy Seine)
+131717591,2021-06-03,23,11558,2865,Paris (Bercy Seine),Lille
+131717591,2021-06-03,24,2865,37381,Lille,Brussels South (Avenue Fonsny/Eurolines)
+131717591,2021-06-03,25,37381,2875,Brussels South (Avenue Fonsny/Eurolines),Brussels-North station
+131717591,2021-06-03,26,2875,14698,Brussels-North station,Aachen Hüls
+131717591,2021-06-03,27,14698,11548,Aachen Hüls,"Cologne South, Airport"
+131717591,2021-06-03,28,11548,25,"Cologne South, Airport",Düsseldorf
+131717591,2021-06-03,29,25,52,Düsseldorf,Essen
+131717591,2021-06-03,30,52,49,Essen,Dortmund
+131924311,2021-06-02,1,4168,11558,Paris CDG Airport,Paris (Bercy Seine)
+131924311,2021-06-02,2,11558,12818,Paris (Bercy Seine),Paris - Orly Airport
+131924311,2021-06-02,3,12818,8118,Paris - Orly Airport,Angoulême
+131924311,2021-06-03,4,8118,4288,Angoulême,Bordeaux Saint-Jean
+131924311,2021-06-03,5,4288,13158,Bordeaux Saint-Jean,Bordeaux (Pessac)
+131924311,2021-06-03,6,13158,5158,Bordeaux (Pessac),Bayonne
+131924311,2021-06-03,7,5158,57381,Bayonne,Biarritz (Airport)
+131924311,2021-06-03,8,57381,4858,Biarritz (Airport),Saint-Jean-de-Luz
+131924311,2021-06-03,9,4858,46561,Saint-Jean-de-Luz,Hendaye
+131924311,2021-06-03,10,46561,6008,Hendaye,San Sebastian (Bus Station)
+131974181,2021-06-02,1,44201,4888,Bolzano South,Trento (Lungadige Monte Grappa)
+131974181,2021-06-02,2,4888,8218,Trento (Lungadige Monte Grappa),Milan (Sesto S.G. 1° Maggio M1)
+131974181,2021-06-02,3,8218,1304,Milan (Sesto S.G. 1° Maggio M1),Milan (Lampugnano bus station)
+132218641,2021-06-02,1,1224,9128,Berlin Alexanderplatz,"Warzymice, Osiedle Kresy"
+132218641,2021-06-02,2,9128,2515,"Warzymice, Osiedle Kresy","Szczecin, ul. Kolumba"
+132459931,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+132459931,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+132459931,2021-06-02,3,48021,47921,İstanbul Dudullu,Gebze bus station
+132459931,2021-06-02,4,47921,48921,Gebze bus station,Bursa bus station
+132459931,2021-06-02,5,48921,48861,Bursa bus station,Balıkesir bus station
+132459931,2021-06-02,6,48861,53121,Balıkesir bus station,Izmir otogar tesis
+132459931,2021-06-02,7,53121,49011,Izmir otogar tesis,Izmir bus station
+132563501,2021-06-02,1,11558,2875,Paris (Bercy Seine),Brussels-North station
+132996741,2021-06-02,1,2875,11768,Brussels-North station,Brussels Airport
+132996741,2021-06-02,2,11768,3268,Brussels Airport,Antwerp
+132996741,2021-06-02,3,3268,1394,Antwerp,Utrecht
+132996741,2021-06-02,4,1394,24508,Utrecht,Amsterdam Bijlmer
+132996741,2021-06-02,5,24508,11928,Amsterdam Bijlmer,Schiphol Airport
+133223001,2021-06-02,1,14068,7288,Košice,Košice station (train)
+133223001,2021-06-02,2,7288,7278,Košice station (train),Kysak
+133223001,2021-06-02,3,7278,14088,Kysak,Prešov
+133223001,2021-06-02,4,14088,7268,Prešov,Prešov (LEO)
+133223001,2021-06-02,5,7268,7258,Prešov (LEO),Spišská Nová Ves
+133223001,2021-06-02,6,7258,7248,Spišská Nová Ves,Poprad-Tatry (LEO)
+133223001,2021-06-02,7,7248,7238,Poprad-Tatry (LEO),Štrba
+133223001,2021-06-02,8,7238,7228,Štrba,Liptovský Mikuláš (LEO)
+133223001,2021-06-02,9,7228,7218,Liptovský Mikuláš (LEO),Ružomberok (train)
+133223001,2021-06-02,10,7218,13988,Ružomberok (train),Ružomberok bus station
+133223001,2021-06-02,11,13988,7208,Ružomberok bus station,Vrútky
+133223001,2021-06-02,12,7208,7198,Vrútky,Žilina (LEO)
+133223001,2021-06-02,13,7198,14118,Žilina (LEO),Žilina
+133223001,2021-06-02,14,14118,7188,Žilina,Čadca
+133223001,2021-06-02,15,7188,7168,Čadca,Třinec
+133223001,2021-06-02,16,7168,7148,Třinec,Český Těšín
+133223001,2021-06-02,17,7148,7138,Český Těšín,Karviná
+133223001,2021-06-02,18,7138,7118,Karviná,"Bohumín, Nový Bohumín, žel.st."
+133223001,2021-06-02,19,7118,7108,"Bohumín, Nový Bohumín, žel.st.",Ostrava hl.n. LEO
+133223001,2021-06-02,20,7108,11878,Ostrava hl.n. LEO,Ostrava hl.n.
+133223001,2021-06-02,21,11878,7098,Ostrava hl.n.,Ostrava-Svinov
+133223001,2021-06-02,22,7098,7088,Ostrava-Svinov,Studénka
+133223001,2021-06-02,23,7088,7078,Studénka,Suchdol nad Odrou
+133223001,2021-06-02,24,7078,7068,Suchdol nad Odrou,Hranice na Moravě
+133223001,2021-06-02,25,7068,7028,Hranice na Moravě,Přerov
+133223001,2021-06-02,26,7028,7018,Přerov,Olomouc Main Station
+133223001,2021-06-02,27,7018,7008,Olomouc Main Station,Zábřeh
+133223001,2021-06-02,28,7008,42551,Zábřeh,Ústí nad Orlicí (train)
+133223001,2021-06-02,29,42551,6998,Ústí nad Orlicí (train),Pardubice
+133223001,2021-06-02,30,6998,6978,Pardubice,Kolín
+133223001,2021-06-02,31,6978,16018,Kolín,Prague Libeň
+133223001,2021-06-02,32,16018,24658,Prague Libeň,Prague Main Station (Train)
+133223001,2021-06-02,33,24658,6988,Prague Main Station (Train),Prague Main Railway Station
+133263131,2021-06-02,1,2635,13318,Zagreb,Siofok
+133263131,2021-06-03,2,13318,14288,Siofok,Budapest Airport
+133263131,2021-06-03,3,14288,2015,Budapest Airport,Budapest Népliget
+133263131,2021-06-03,4,2015,28878,Budapest Népliget,Budapest Mexikói út
+133263131,2021-06-03,5,28878,13958,Budapest Mexikói út,Zvolen
+133263131,2021-06-03,6,13958,13968,Zvolen,Banská Bystrica
+133263131,2021-06-03,7,13968,13978,Banská Bystrica,Donovaly
+133263131,2021-06-03,8,13978,13988,Donovaly,Ružomberok bus station
+133263131,2021-06-03,9,13988,2196,Ružomberok bus station,Kraków MDA
+133449481,2021-06-02,1,18468,18268,MissingStop,Brăila
+133449481,2021-06-02,2,18268,18488,Brăila,Țăndărei
+133449481,2021-06-02,3,18488,18478,Țăndărei,Slobozia
+133449481,2021-06-02,4,18478,18308,Slobozia,Calarasi
+133449481,2021-06-02,5,18308,21868,Calarasi,Bucharest Autogara Militari
+134044851,2021-06-02,1,28048,15928,Macerata (Autostazione),Piediripa (Macerata)
+134044851,2021-06-02,2,15928,9498,Piediripa (Macerata),Civitanova Marche
+134044851,2021-06-02,3,9498,28068,Civitanova Marche,Porto Sant'Elpidio (Piazzale Virgilio)
+134044851,2021-06-02,4,28068,28078,Porto Sant'Elpidio (Piazzale Virgilio),Porto San Giorgio (C.so Garibaldi)
+134044851,2021-06-02,5,28078,31081,Porto San Giorgio (C.so Garibaldi),Porto San Giorgio (Largo Carducci)
+134044851,2021-06-02,6,31081,28088,Porto San Giorgio (Largo Carducci),Pedaso
+134044851,2021-06-02,7,28088,28098,Pedaso,Cupra Marittima
+134044851,2021-06-02,8,28098,28108,Cupra Marittima,Grottammare
+134044851,2021-06-02,9,28108,9488,Grottammare,San Benedetto del Tronto (Piazza Cesare Battisti 5/7)
+134044851,2021-06-02,10,9488,10368,San Benedetto del Tronto (Piazza Cesare Battisti 5/7),Porto d'Ascoli
+134044851,2021-06-02,11,10368,2425,Porto d'Ascoli,Rome Tiburtina Bus station
+134044851,2021-06-02,12,2425,28228,Rome Tiburtina Bus station,Rome Ciampino Airport
+134044851,2021-06-02,13,28228,15218,Rome Ciampino Airport,Rome Fiumicino Airport
+134085961,2021-06-02,1,87,88,MissingStop,Oldenburg
+134085961,2021-06-02,2,88,89,Oldenburg,Bremen
+134085961,2021-06-02,3,89,1,Bremen,Berlin central bus station
+134160691,2021-06-02,1,11558,5118,Paris (Bercy Seine),Auxerre
+134160691,2021-06-02,2,5118,4438,Auxerre,Dijon
+134323421,2021-06-02,1,5288,6188,Caen,Paris La Défense
+134323421,2021-06-02,2,6188,11558,Paris La Défense,Paris (Bercy Seine)
+134577341,2021-06-02,1,2565,11838,Verona (Porta Nuova),Mantua (Strada Cipata)
+134577341,2021-06-02,2,11838,6308,Mantua (Strada Cipata),Modena (Terminal via Gottardi)
+134577341,2021-06-02,3,6308,2085,Modena (Terminal via Gottardi),Florence (Villa Costanza Tram T1)
+134577341,2021-06-02,4,2085,7408,Florence (Villa Costanza Tram T1),Siena (Stazione FS)
+134577341,2021-06-02,5,7408,11407,Siena (Stazione FS),Perugia (Piazza Partigiani)
+134577341,2021-06-02,6,11407,27378,Perugia (Piazza Partigiani),Villa San Giovanni
+134577341,2021-06-03,7,27378,17728,Villa San Giovanni,Messina
+134577341,2021-06-03,8,17728,31231,Messina,Catania (Via D'Amico)
+134577341,2021-06-03,9,31231,31281,Catania (Via D'Amico),Lentini
+134577341,2021-06-03,10,31281,46931,Lentini,Comiso (Via Ghandi)
+134577341,2021-06-03,11,46931,17738,Comiso (Via Ghandi),Ragusa
+134577341,2021-06-03,12,17738,31301,Ragusa,Modica
+134636961,2021-06-02,1,1,36,Berlin central bus station,Hamburg ZOB
+134636961,2021-06-02,2,36,89,Hamburg ZOB,Bremen
+134636961,2021-06-03,3,89,1554,Bremen,Groningen
+134636961,2021-06-03,4,1554,2715,Groningen,Amsterdam Sloterdijk
+134879601,2021-06-02,1,1775,1805,MissingStop,Lana (Lido)
+134879601,2021-06-02,2,1805,44201,Lana (Lido),Bolzano South
+134879601,2021-06-02,3,44201,4888,Bolzano South,Trento (Lungadige Monte Grappa)
+134879601,2021-06-02,4,4888,12608,Trento (Lungadige Monte Grappa),Rovereto
+134879601,2021-06-02,5,12608,10338,Rovereto,Gardaland
+134879601,2021-06-02,6,10338,10328,Gardaland,Peschiera del Garda (Stazione FS)
+134879601,2021-06-02,7,10328,10168,Peschiera del Garda (Stazione FS),Bergamo (Orio al Serio Airport - BGY)
+134879601,2021-06-02,8,10168,39391,Bergamo (Orio al Serio Airport - BGY),Cormano - Cusano Milanino West
+134879601,2021-06-02,9,39391,1304,Cormano - Cusano Milanino West,Milan (Lampugnano bus station)
+134879601,2021-06-02,10,1304,15948,Milan (Lampugnano bus station),Novara (motorway A4 westbound)
+134879601,2021-06-02,11,15948,22658,Novara (motorway A4 westbound),Santhià (motorway A4 westbound)
+134879601,2021-06-02,12,22658,22668,Santhià (motorway A4 westbound),Chivasso Centro (motorway A4 westbound)
+134879601,2021-06-02,13,22668,16228,Chivasso Centro (motorway A4 westbound),Turin Stura
+134879601,2021-06-02,14,16228,3388,Turin Stura,Turin (Vittorio Emanuele)
+134911821,2021-06-02,1,10028,10008,MissingStop,Široki Brijeg
+134911821,2021-06-02,2,10008,9998,Široki Brijeg,Posušje
+134911821,2021-06-02,3,9998,9868,Posušje,Imotski
+134911821,2021-06-02,4,9868,32381,Imotski,Krivodol
+134911821,2021-06-02,5,32381,32281,Krivodol,Cista Provo
+134911821,2021-06-02,6,32281,32291,Cista Provo,Cista Velika
+134911821,2021-06-02,7,32291,7618,Cista Velika,Split
+135047271,2021-06-02,1,561,341,MissingStop,Homburg
+135047271,2021-06-02,2,341,95,Homburg,Kaiserslautern
+135047271,2021-06-02,3,95,291,Kaiserslautern,Mainz
+135047271,2021-06-02,4,291,38,Mainz,Frankfurt Airport
+135047271,2021-06-02,5,38,12,Frankfurt Airport,Frankfurt central station
+135047271,2021-06-02,6,12,30,Frankfurt central station,Leipzig central station
+135047271,2021-06-03,7,30,44061,Leipzig central station,"Berlin Airport BER, T 1/2"
+135047271,2021-06-03,8,44061,1,"Berlin Airport BER, T 1/2",Berlin central bus station
+135047271,2021-06-03,9,1,1224,Berlin central bus station,Berlin Alexanderplatz
+135293421,2021-06-02,1,2655,2605,Vienna Erdberg (VIB),Vienna Airport
+135293421,2021-06-02,2,2605,1965,Vienna Airport,Bratislava Einsteinova
+135293421,2021-06-02,3,1965,1975,Bratislava Einsteinova,"Bratislava,,Most SNP"
+135293421,2021-06-02,4,1975,1955,"Bratislava,,Most SNP",Bratislava Airport
+135293521,2021-06-02,1,1955,7838,Bratislava Airport,Bratislava
+135293521,2021-06-02,2,7838,1975,Bratislava,"Bratislava,,Most SNP"
+135293521,2021-06-02,3,1975,1965,"Bratislava,,Most SNP",Bratislava Einsteinova
+135293521,2021-06-02,4,1965,2605,Bratislava Einsteinova,Vienna Airport
+135293521,2021-06-02,5,2605,2655,Vienna Airport,Vienna Erdberg (VIB)
+135585091,2021-06-02,1,1985,2196,"Wrocław, Dworzec Autobusowy",Kraków MDA
+135585151,2021-06-02,1,2196,1985,Kraków MDA,"Wrocław, Dworzec Autobusowy"
+135907351,2021-06-02,1,1494,19018,Prague ÚAN Florenc,Hradec Králové
+135907351,2021-06-02,2,19018,14358,Hradec Králové,"Łódź, WPA Łódź Fabryczna"
+135907351,2021-06-03,3,14358,10118,"Łódź, WPA Łódź Fabryczna",Warsaw West
+135907351,2021-06-03,4,10118,23498,Warsaw West,Radom Dworzec Autobusowy
+135907351,2021-06-03,5,23498,19028,Radom Dworzec Autobusowy,Rivne BS
+135907351,2021-06-03,6,19028,19038,Rivne BS,Zhytomyr BS
+135907351,2021-06-03,7,19038,19058,Zhytomyr BS,Kyiv (Kyiv Bus Station)
+135982831,2021-06-02,1,4208,14498,MissingStop,Bellegarde (Péage)
+135982831,2021-06-02,2,14498,4548,Bellegarde (Péage),Lyon Perrache
+136090661,2021-06-02,1,4548,4968,Lyon Perrache,Grenoble
+136103691,2021-06-02,1,5058,19828,MissingStop,Aix-les-Bains
+136103691,2021-06-02,2,19828,4548,Aix-les-Bains,Lyon Perrache
+136352351,2021-06-02,1,2015,2275,Budapest Népliget,Maribor
+136352351,2021-06-03,2,2275,2235,Maribor,Ljubljana
+136352351,2021-06-03,3,2235,10138,Ljubljana,Udine (autostazione)
+136352351,2021-06-03,4,10138,3758,Udine (autostazione),Venice Mestre (Stazione FS)
+136352351,2021-06-03,5,3758,2555,Venice Mestre (Stazione FS),Venice (Tronchetto)
+136352351,2021-06-03,6,2555,3968,Venice (Tronchetto),Bologna (central bus station)
+136352351,2021-06-03,7,3968,2085,Bologna (central bus station),Florence (Villa Costanza Tram T1)
+136391591,2021-06-02,1,2775,8078,MissingStop,St. Michael station
+136391591,2021-06-02,2,8078,2225,St. Michael station,Linz Wissensturm
+136427231,2021-06-02,1,8038,5018,Marseille St. Charles,Aix-en-Provence
+136427231,2021-06-02,2,5018,4968,Aix-en-Provence,Grenoble
+136471821,2021-06-02,1,1304,2,Milan (Lampugnano bus station),Zurich
+136471821,2021-06-02,2,2,3,Zurich,Constance Döbeleplatz
+136471821,2021-06-02,3,3,3228,Constance Döbeleplatz,Engen
+136471821,2021-06-02,4,3228,4278,Engen,Böblingen
+136471821,2021-06-02,5,4278,12908,Böblingen,Kornwestheim Pre Waypoint
+136471821,2021-06-02,6,12908,8058,Kornwestheim Pre Waypoint,Kornwestheim
+136471821,2021-06-02,7,8058,41471,Kornwestheim,Kornwestheim Post Waypoint 1
+136471821,2021-06-02,8,41471,12918,Kornwestheim Post Waypoint 1,Kornwestheim Post Waypoint 2
+136471821,2021-06-02,9,12918,28,Kornwestheim Post Waypoint 2,Würzburg
+136471821,2021-06-02,10,28,46,Würzburg,Göttingen
+136471821,2021-06-03,11,46,64,Göttingen,Hanover
+136471821,2021-06-03,12,64,36,Hanover,Hamburg ZOB
+136527231,2021-06-02,1,16958,23658,Lisbon (Oriente),Porto (Camelias)
+136527231,2021-06-02,2,23658,23628,Porto (Camelias),Braga
+136554751,2021-06-02,1,2555,3758,Venice (Tronchetto),Venice Mestre (Stazione FS)
+136554751,2021-06-02,2,3758,2355,Venice Mestre (Stazione FS),Padua
+136554751,2021-06-02,3,2355,2565,Padua,Verona (Porta Nuova)
+136554751,2021-06-02,4,2565,1304,Verona (Porta Nuova),Milan (Lampugnano bus station)
+136554751,2021-06-02,5,1304,12928,Milan (Lampugnano bus station),Luzern
+136554751,2021-06-03,6,12928,2,Luzern,Zurich
+136554751,2021-06-03,7,2,1634,Zurich,Basel SBB
+136554751,2021-06-03,8,1634,8,Basel SBB,Freiburg (i.Br.)
+136554751,2021-06-03,9,8,23,Freiburg (i.Br.),Strasbourg
+136584081,2021-06-02,1,35721,31581,Faro (Av. Republica),Albufeira (Av Pessanha Viegas)
+136584081,2021-06-02,2,31581,16958,Albufeira (Av Pessanha Viegas),Lisbon (Oriente)
+136584081,2021-06-02,3,16958,36591,Lisbon (Oriente),Fatima
+136584081,2021-06-02,4,36591,32741,Fatima,Coimbra (Rua do Padrao)
+136584081,2021-06-02,5,32741,23658,Coimbra (Rua do Padrao),Porto (Camelias)
+136746331,2021-06-02,1,57521,50721,MissingStop,Leeds (Kirkgate)
+136746331,2021-06-02,2,50721,50781,Leeds (Kirkgate),Sheffield (Meadowhall Interchange)
+136746331,2021-06-02,3,50781,50741,Sheffield (Meadowhall Interchange),London Finchley Rd
+136746331,2021-06-02,4,50741,4948,London Finchley Rd,London Victoria Coach Station
+136886931,2021-06-02,1,2815,22568,Vienna Europaplatz (train),Vienna Meidling
+136886931,2021-06-02,2,22568,7758,Vienna Meidling,Tullnerfeld station (train)
+136886931,2021-06-02,3,7758,2505,Tullnerfeld station (train),Sankt Pölten (train)
+136886931,2021-06-02,4,2505,1895,Sankt Pölten (train),Amstetten station (train)
+136886931,2021-06-02,5,1895,50241,Amstetten station (train),St. Valentin station (train)
+136886931,2021-06-02,6,50241,7378,St. Valentin station (train),Linz central station (Train)
+136886931,2021-06-02,7,7378,2595,Linz central station (Train),Wels station (train)
+136886931,2021-06-02,8,2595,1915,Wels station (train),Attnang-Puchheim (train)
+136886931,2021-06-02,9,1915,31841,Attnang-Puchheim (train),Vöcklabruck station (train)
+136886931,2021-06-02,10,31841,50251,Vöcklabruck station (train),Neumarkt-Köstendorf station (train)
+136886931,2021-06-02,11,50251,7368,Neumarkt-Köstendorf station (train),Salzburg (FlixTrain)
+136887351,2021-06-02,1,7368,50251,Salzburg (FlixTrain),Neumarkt-Köstendorf station (train)
+136887351,2021-06-02,2,50251,31841,Neumarkt-Köstendorf station (train),Vöcklabruck station (train)
+136887351,2021-06-02,3,31841,1915,Vöcklabruck station (train),Attnang-Puchheim (train)
+136887351,2021-06-02,4,1915,2595,Attnang-Puchheim (train),Wels station (train)
+136887351,2021-06-02,5,2595,7378,Wels station (train),Linz central station (Train)
+136887351,2021-06-02,6,7378,50241,Linz central station (Train),St. Valentin station (train)
+136887351,2021-06-02,7,50241,1895,St. Valentin station (train),Amstetten station (train)
+136887351,2021-06-02,8,1895,2505,Amstetten station (train),Sankt Pölten (train)
+136887351,2021-06-02,9,2505,7758,Sankt Pölten (train),Tullnerfeld station (train)
+136887351,2021-06-02,10,7758,22568,Tullnerfeld station (train),Vienna Meidling
+136887351,2021-06-02,11,22568,2815,Vienna Meidling,Vienna Europaplatz (train)
+136975621,2021-06-02,1,31231,27328,Catania (Via D'Amico),Giardini Naxos
+136975621,2021-06-02,2,27328,17728,Giardini Naxos,Messina
+136975621,2021-06-02,3,17728,27378,Messina,Villa San Giovanni
+136975621,2021-06-02,4,27378,17758,Villa San Giovanni,Rosarno
+136975621,2021-06-02,5,17758,17798,Rosarno,Vibo Valentia
+136975621,2021-06-02,6,17798,17718,Vibo Valentia,Lamezia Terme
+136975621,2021-06-02,7,17718,28318,Lamezia Terme,Pian del Lago
+136975621,2021-06-02,8,28318,27108,Pian del Lago,Cosenza (Autostazione)
+136975621,2021-06-02,9,27108,27228,Cosenza (Autostazione),Rende (Cosenza Nord)
+136975621,2021-06-02,10,27228,27338,Rende (Cosenza Nord),Tarsia
+136975621,2021-06-02,11,27338,27348,Tarsia,Terme Spezzano
+136975621,2021-06-02,12,27348,17778,Terme Spezzano,Sibari
+136975621,2021-06-02,13,17778,27058,Sibari,Bivio Cantinella
+136975621,2021-06-02,14,27058,28558,Bivio Cantinella,Corigliano (Distributore AGIP)
+136975621,2021-06-02,15,28558,23318,Corigliano (Distributore AGIP),Schiavonea
+136975621,2021-06-02,16,23318,23398,Schiavonea,Rossano
+136975621,2021-06-02,17,23398,23378,Rossano,Mirto Crosia
+136975621,2021-06-02,18,23378,27068,Mirto Crosia,Calopezzati
+136975621,2021-06-02,19,27068,27398,Calopezzati,Pietrapaola
+136975621,2021-06-02,20,27398,27138,Pietrapaola,Mandatoriccio
+136975621,2021-06-02,21,27138,23298,Mandatoriccio,Cariati
+137695301,2021-06-02,1,56521,54281,MissingStop,Hollywood / Highland (LA)
+137695301,2021-06-02,2,54281,26388,Hollywood / Highland (LA),Downtown LA (N Vignes St)
+137695301,2021-06-02,3,26388,27478,Downtown LA (N Vignes St),Montclair
+137695301,2021-06-02,4,27478,26858,Montclair,Victorville
+137695301,2021-06-02,5,26858,26868,Victorville,Barstow Station
+137695301,2021-06-02,6,26868,26708,Barstow Station,Las Vegas Strip (Las Vegas Blvd)
+137695301,2021-06-02,7,26708,26638,Las Vegas Strip (Las Vegas Blvd),Downtown Las Vegas (1st St)
+137695301,2021-06-02,8,26638,26648,Downtown Las Vegas (1st St),Henderson (Galleria at Sunset)
+137712481,2021-06-02,1,21618,36,MissingStop,Hamburg ZOB
+137712481,2021-06-02,2,36,3288,Hamburg ZOB,Berlin Alt-Tegel
+137712481,2021-06-02,3,3288,1,Berlin Alt-Tegel,Berlin central bus station
+137712481,2021-06-02,4,1,481,Berlin central bus station,Berlin Südkreuz
+137712481,2021-06-02,5,481,44061,Berlin Südkreuz,"Berlin Airport BER, T 1/2"
+137712481,2021-06-02,6,44061,32701,"Berlin Airport BER, T 1/2",Frankfurt (Oder)
+137712481,2021-06-02,7,32701,35321,Frankfurt (Oder),Słubice Collegium Polonicum
+137712481,2021-06-02,8,35321,14358,Słubice Collegium Polonicum,"Łódź, WPA Łódź Fabryczna"
+137712481,2021-06-03,9,14358,10118,"Łódź, WPA Łódź Fabryczna",Warsaw West
+137729701,2021-06-02,1,16958,23658,Lisbon (Oriente),Porto (Camelias)
+137790411,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+137790411,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+137790411,2021-06-02,3,48021,47921,İstanbul Dudullu,Gebze bus station
+137790411,2021-06-02,4,47921,48921,Gebze bus station,Bursa bus station
+137790411,2021-06-02,5,48921,48311,Bursa bus station,M.Kemal Paşa bus station
+137790411,2021-06-02,6,48311,49611,M.Kemal Paşa bus station,Susurluk bus station
+137790411,2021-06-02,7,49611,48861,Susurluk bus station,Balıkesir bus station
+137790411,2021-06-03,8,48861,47761,Balıkesir bus station,Akhisar bus station
+137790411,2021-06-03,9,47761,47701,Akhisar bus station,Manisa bus station
+137790411,2021-06-03,10,47701,53121,Manisa bus station,Izmir otogar tesis
+137790411,2021-06-03,11,53121,49011,Izmir otogar tesis,Izmir bus station
+137892941,2021-06-02,1,4108,15758,Bari (Via Capruzzi),Bari - Modugno
+137892941,2021-06-02,2,15758,6218,Bari - Modugno,Naples (Metropark Centrale)
+137915791,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+137915791,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+137915791,2021-06-02,3,48021,47921,İstanbul Dudullu,Gebze bus station
+137915791,2021-06-02,4,47921,48921,Gebze bus station,Bursa bus station
+137915791,2021-06-02,5,48921,56731,Bursa bus station,Konakoğlu rest station
+137915791,2021-06-03,6,56731,53121,Konakoğlu rest station,Izmir otogar tesis
+137915791,2021-06-03,7,53121,49011,Izmir otogar tesis,Izmir bus station
+137915791,2021-06-03,8,49011,48551,Izmir bus station,Urla bus station
+137915791,2021-06-03,9,48551,50081,Urla bus station,Çeşme Alaçatı bus station
+137915791,2021-06-03,10,50081,50071,Çeşme Alaçatı bus station,Çeşme Ilıca bus station
+137915791,2021-06-03,11,50071,50061,Çeşme Ilıca bus station,Çeşme bus station
+137938561,2021-06-02,1,48031,48351,MissingStop,Milas bus station
+137938561,2021-06-02,2,48351,48461,Milas bus station,Söke bus station
+137938561,2021-06-02,3,48461,53121,Söke bus station,Izmir otogar tesis
+137938561,2021-06-02,4,53121,49011,Izmir otogar tesis,Izmir bus station
+137938561,2021-06-02,5,49011,56731,Izmir bus station,Konakoğlu rest station
+137938561,2021-06-02,6,56731,48921,Konakoğlu rest station,Bursa bus station
+137938561,2021-06-02,7,48921,47921,Bursa bus station,Gebze bus station
+137938561,2021-06-02,8,47921,48021,Gebze bus station,İstanbul Dudullu
+137938561,2021-06-02,9,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+137938561,2021-06-02,10,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+138339041,2021-06-02,1,8,31,Freiburg (i.Br.),Titisee Badeparadies
+138339041,2021-06-02,2,31,32021,Titisee Badeparadies,Neustadt  (Titisee-Neustadt)
+138339041,2021-06-02,3,32021,3228,Neustadt  (Titisee-Neustadt),Engen
+138339041,2021-06-02,4,3228,1414,Engen,Überlingen
+138339041,2021-06-02,5,1414,5,Überlingen,Meersburg
+138339041,2021-06-02,6,5,3198,Meersburg,Markdorf
+138339041,2021-06-02,7,3198,1725,Markdorf,Ravensburg
+138339041,2021-06-02,8,1725,1704,Ravensburg,Wangen
+138339041,2021-06-02,9,1704,161,Wangen,Memmingen central bus station
+138339041,2021-06-02,10,161,1684,Memmingen central bus station,Memmingen airport
+138339041,2021-06-02,11,1684,10,Memmingen airport,Munich central bus station
+138339041,2021-06-02,12,10,6988,Munich central bus station,Prague Main Railway Station
+138339041,2021-06-02,13,6988,1494,Prague Main Railway Station,Prague ÚAN Florenc
+138877301,2021-06-02,1,47751,48771,Eskisehir bus station,Afyon bus station
+138877301,2021-06-02,2,48771,51851,Afyon bus station,Adalya
+138877301,2021-06-02,3,51851,48441,Adalya,Sandıklı bus station
+138877301,2021-06-02,4,48441,49891,Sandıklı bus station,Keçiborlu bus station
+138877301,2021-06-02,5,49891,48911,Keçiborlu bus station,Burdur bus station
+138877301,2021-06-02,6,48911,48061,Burdur bus station,Bucak
+138877301,2021-06-02,7,48061,48841,Bucak,Antalya bus station
+138877301,2021-06-02,8,48841,48451,Antalya bus station,Serik bus station
+138877301,2021-06-02,9,48451,47711,Serik bus station,Manavgat bus station
+138877301,2021-06-02,10,47711,48801,Manavgat bus station,Alanya Bus Station
+139050821,2021-06-02,1,47512,48381,MissingStop,Orhangazi bus station
+139050821,2021-06-02,2,48381,48611,Orhangazi bus station,Gemlik bus station
+139050821,2021-06-02,3,48611,48921,Gemlik bus station,Bursa bus station
+139050821,2021-06-02,4,48921,47961,Bursa bus station,Inegol bus station
+139050821,2021-06-02,5,47961,48111,Inegol bus station,Bozüyük
+139050821,2021-06-02,6,48111,47751,Bozüyük,Eskisehir bus station
+139050821,2021-06-02,7,47751,48771,Eskisehir bus station,Afyon bus station
+139050821,2021-06-02,8,48771,51851,Afyon bus station,Adalya
+139050821,2021-06-02,9,51851,48441,Adalya,Sandıklı bus station
+139050821,2021-06-02,10,48441,49891,Sandıklı bus station,Keçiborlu bus station
+139050821,2021-06-02,11,49891,48911,Keçiborlu bus station,Burdur bus station
+139050821,2021-06-02,12,48911,48061,Burdur bus station,Bucak
+139050821,2021-06-02,13,48061,48841,Bucak,Antalya bus station
+139240561,2021-06-02,1,48041,47991,İstanbul Esenler,İstanbul Alibeyköy
+139240561,2021-06-02,2,47991,48021,İstanbul Alibeyköy,İstanbul Dudullu
+139240561,2021-06-02,3,48021,48921,İstanbul Dudullu,Bursa bus station
+139240561,2021-06-02,4,48921,56731,Bursa bus station,Konakoğlu rest station
+139240561,2021-06-02,5,56731,53121,Konakoğlu rest station,Izmir otogar tesis
+139240561,2021-06-02,6,53121,49011,Izmir otogar tesis,Izmir bus station
+139240561,2021-06-02,7,49011,48851,Izmir bus station,Aydın bus station
+139240561,2021-06-02,8,48851,50111,Aydın bus station,Çine bus station
+139240561,2021-06-03,9,50111,49161,Çine bus station,Yatağan
+139240561,2021-06-03,10,49161,47681,Yatağan,Muğla bus station
+139240561,2021-06-03,11,47681,49921,Muğla bus station,Köyceğiz bus station
+139240561,2021-06-03,12,49921,48391,Köyceğiz bus station,Ortaca bus station
+139240561,2021-06-03,13,48391,50121,Ortaca bus station,Dalaman bus station
+139240561,2021-06-03,14,50121,48631,Dalaman bus station,Fethiye bus station
+139240561,2021-06-03,15,48631,49841,Fethiye bus station,Kalkan bus station
+139240561,2021-06-03,16,49841,48231,Kalkan bus station,Kaş bus station
+139256651,2021-06-02,1,49201,47881,MissingStop,Bandırma
+139256651,2021-06-02,2,47881,48201,Bandırma,Karacabey bus station
+139256651,2021-06-02,3,48201,48921,Karacabey bus station,Bursa bus station
+139256651,2021-06-02,4,48921,47961,Bursa bus station,Inegol bus station
+139256651,2021-06-02,5,47961,48111,Inegol bus station,Bozüyük
+139256651,2021-06-02,6,48111,51661,Bozüyük,Eskişehir rest stop
+139256651,2021-06-02,7,51661,47751,Eskişehir rest stop,Eskisehir bus station
+139256651,2021-06-02,8,47751,48411,Eskisehir bus station,Polatlı bus station
+139256651,2021-06-02,9,48411,48831,Polatlı bus station,Ankara bus station
+139452991,2021-06-02,1,13968,13958,Banská Bystrica,Zvolen
+139452991,2021-06-02,2,13958,33071,Zvolen,"Žiar n.Hronom,,aut.st."
+139452991,2021-06-02,3,33071,33061,"Žiar n.Hronom,,aut.st.",Hliník n.Hronom
+139452991,2021-06-02,4,33061,33091,Hliník n.Hronom,"Žarnovica,,motel Sitno"
+139452991,2021-06-02,5,33091,34431,"Žarnovica,,motel Sitno",Nitra
+139452991,2021-06-02,6,34431,32871,Nitra,Sereď
+139452991,2021-06-02,7,32871,7838,Sereď,Bratislava
+139577711,2021-06-02,1,48161,49301,MissingStop,Mucur bus station
+139577711,2021-06-02,2,49301,47931,Mucur bus station,Kırşehir bus station
+139577711,2021-06-02,3,47931,48171,Kırşehir bus station,Kırıkkale bus station
+139577711,2021-06-02,4,48171,49101,Kırıkkale bus station,Elmadağ bus station
+139577711,2021-06-02,5,49101,49881,Elmadağ bus station,Kayaş Çalışkan
+139577711,2021-06-02,6,49881,48831,Kayaş Çalışkan,Ankara bus station
+139622431,2021-06-02,1,1765,1755,Graz (Girardigasse),Graz Murpark
+139622431,2021-06-02,2,1755,1735,Graz Murpark,Vienna Matzleinsdorferplatz
+139622431,2021-06-02,3,1735,1745,Vienna Matzleinsdorferplatz,Vienna Felberstrasse
+139622531,2021-06-02,1,1745,1735,Vienna Felberstrasse,Vienna Matzleinsdorferplatz
+139622531,2021-06-02,2,1735,1755,Vienna Matzleinsdorferplatz,Graz Murpark
+139622531,2021-06-02,3,1755,1765,Graz Murpark,Graz (Girardigasse)
+139881111,2021-06-02,1,48831,48411,Ankara bus station,Polatlı bus station
+139881111,2021-06-02,2,48411,47751,Polatlı bus station,Eskisehir bus station
+139881111,2021-06-02,3,47751,48111,Eskisehir bus station,Bozüyük
+139881111,2021-06-02,4,48111,47961,Bozüyük,Inegol bus station
+139881111,2021-06-02,5,47961,48921,Inegol bus station,Bursa bus station
+139881111,2021-06-02,6,48921,48201,Bursa bus station,Karacabey bus station
+139881111,2021-06-02,7,48201,47881,Karacabey bus station,Bandırma
+139881111,2021-06-02,8,47881,48591,Bandırma,Gönen bus station
+139881111,2021-06-02,9,48591,48141,Gönen bus station,Biga
+139881111,2021-06-02,10,48141,50001,Biga,Çan bus station
+139945461,2021-06-02,1,48921,47961,Bursa bus station,Inegol bus station
+139945461,2021-06-02,2,47961,48111,Inegol bus station,Bozüyük
+139945461,2021-06-02,3,48111,47741,Bozüyük,Kütahya bus station
+139945461,2021-06-02,4,47741,51701,Kütahya bus station,Afyon KK
+139945461,2021-06-03,5,51701,48771,Afyon KK,Afyon bus station
+139945461,2021-06-03,6,48771,48441,Afyon bus station,Sandıklı bus station
+139945461,2021-06-03,7,48441,49891,Sandıklı bus station,Keçiborlu bus station
+139945461,2021-06-03,8,49891,47981,Keçiborlu bus station,Isparta bus station
+139945461,2021-06-03,9,47981,48841,Isparta bus station,Antalya bus station
+139945461,2021-06-03,10,48841,49901,Antalya bus station,Kemer bus station
+139945461,2021-06-03,11,49901,48291,Kemer bus station,Kumluca bus station
+139945461,2021-06-03,12,48291,49541,Kumluca bus station,Finike bus station
+139987521,2021-06-02,1,48831,48411,Ankara bus station,Polatlı bus station
+139987521,2021-06-02,2,48411,47751,Polatlı bus station,Eskisehir bus station
+139987521,2021-06-02,3,47751,48111,Eskisehir bus station,Bozüyük
+139987521,2021-06-02,4,48111,47961,Bozüyük,Inegol bus station
+139987521,2021-06-03,5,47961,48921,Inegol bus station,Bursa bus station
+139987521,2021-06-03,6,48921,48201,Bursa bus station,Karacabey bus station
+139987521,2021-06-03,7,48201,47881,Karacabey bus station,Bandırma
+139987521,2021-06-03,8,47881,48591,Bandırma,Gönen bus station
+139987521,2021-06-03,9,48591,48141,Gönen bus station,Biga
+139987521,2021-06-03,10,48141,50001,Biga,Çan bus station
+139987521,2021-06-03,11,50001,49171,Çan bus station,Yenice
+140010781,2021-06-02,1,48031,48351,MissingStop,Milas bus station
+140010781,2021-06-02,2,48351,48461,Milas bus station,Söke bus station
+140010781,2021-06-02,3,48461,56731,Söke bus station,Konakoğlu rest station
+140010781,2021-06-03,4,56731,47921,Konakoğlu rest station,Gebze bus station
+140010781,2021-06-03,5,47921,48021,Gebze bus station,İstanbul Dudullu
+140010781,2021-06-03,6,48021,47991,İstanbul Dudullu,İstanbul Alibeyköy
+140010781,2021-06-03,7,47991,48041,İstanbul Alibeyköy,İstanbul Esenler
+140075521,2021-06-02,1,36102,10168,MissingStop,Bergamo (Orio al Serio Airport - BGY)
