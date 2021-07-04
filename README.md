@@ -2,9 +2,8 @@
 
 
 # Introduction
-This small project is parses csv file which has ride schedules segment details and enrich it
-with stop names and flatten it by stop wise instead of segment
-The API is using in memory storage to store and retrieve information
+This small project parses csv file which has ride schedules segment details and enrich it
+with stop names and flatten it by stop wise instead of segment.
 
 # Project Documentation
 1. Process all rows of ride_schedule.csv and enrich them with the stop name using “stop_details.csv” as a look-up. Write the output to another csv file called stop_details_enriched.csv
