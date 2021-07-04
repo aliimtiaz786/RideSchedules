@@ -35,10 +35,7 @@ public class CSVHelper {
 
   public static List<RideSchedule> csvToRideSchedules(InputStream is) throws IOException {
     try (var fileReader = new BufferedReader(new InputStreamReader(is, StandardCharsets.UTF_8));
-        var csvParser =
-            new CSVParser(
-                fileReader,
-                CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim())) {
+        var csvParser = getCsvParser(fileReader)) {
 
       List<RideSchedule> rideSchedules = new ArrayList<>();
 
@@ -71,10 +68,7 @@ public class CSVHelper {
 
   public static List<StopDetail> csvToStopDetails(InputStream is) throws IOException {
     try (var fileReader = new BufferedReader(new InputStreamReader(is, StandardCharsets.UTF_8));
-        var csvParser =
-            new CSVParser(
-                fileReader,
-                CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim())) {
+        var csvParser = getCsvParser(fileReader)) {
 
       List<StopDetail> stopDetails = new ArrayList<>();
       Iterable<CSVRecord> csvRecords = csvParser.getRecords();
@@ -165,5 +159,10 @@ public class CSVHelper {
       log.error("Error occurred while writing csv file", e);
       throw e;
     }
+  }
+
+  private static CSVParser getCsvParser(BufferedReader fileReader) throws IOException {
+    return new CSVParser(
+        fileReader, CSVFormat.DEFAULT.withFirstRecordAsHeader().withIgnoreHeaderCase().withTrim());
   }
 }
