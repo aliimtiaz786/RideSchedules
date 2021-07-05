@@ -20,7 +20,7 @@ with stop names and flatten it by stop wise instead of segment.
 1. Make sure you have maven, Docker and JDK 16 installed in your local system
 2. Run command to build an image
    ```` 
-   mvn clean compile assembly:single 
+   mvn package install
    mvn docker:build   
    ````
 3. Now run command to run dockerized image
